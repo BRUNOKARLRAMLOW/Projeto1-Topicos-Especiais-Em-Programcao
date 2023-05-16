@@ -1,0 +1,48 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.cabesalho {
+  background-color: rgb(1, 24, 78);
+}
+
+.logo {
+  width: 250px;
+  height: 60px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.jdm1 {
+  padding: 5px;
+  padding-left: 225px;
+}
+
+.menu img {
+  align-items: right;
+}
+
+.historia {
+  color: rgb(191, 129, 79);
+  text-align: center;
+}

@@ -1,0 +1,78 @@
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.cabesalho {
+    background-color: rgb(1, 24, 78);
+}
+
+.logo {
+    width: 250px;
+    height: 60px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+}
+
+.textoh2 {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+
+.textoh3 {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+tr:hover {
+    background-color: rgb(27, 107, 212);
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid #ddd;
+    background-color: rgb(27, 107, 212);
+    color: rgb(255, 255, 255);
+}
+
+td {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.divall {
+    display: inline-block;
+    width: 650px;
+    height: 400px;
+}
+
+.div2 {
+    display: inline-block;
+    width: 650px;
+    height: 400px;
+}
+
+.div3 {
+    display: inline-block;
+    width: 650px;
+    height: 400px;
+}
